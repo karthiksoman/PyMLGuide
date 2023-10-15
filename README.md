@@ -1,3 +1,3 @@
 # Machine learning
 
-This repository holds python scripts and notebooks mainly for pedagogic purpose of teaching Machine learning (ML) algorithms in a hands-on way. This covers the implementation of ML algorithms using both conventional and also using deep neural networks on both biological and non-biological datasets.
+This repository contains Python scripts and notebooks primarily intended for pedagogical purposes, focusing on the hands-on teaching of Machine Learning (ML) algorithms. The content covers the implementation of ML algorithms using both conventional and deep neural network approaches on datasets that encompass both biological and non-biological data that are publicly available.
